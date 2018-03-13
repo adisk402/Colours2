@@ -10,7 +10,7 @@ body{
 	color: white;
 	margin:0 auto;
 	position:fixed;
-	bottom:27%;
+	bottom:26.5%;
 }
 
 .q{
@@ -29,4 +29,35 @@ body{
 	position: relative;
     margin-bottom: px;
     left:-108px;
+}
+
+.r{
+	position: relative;
+    margin-bottom:-10px;
+    left:53px;
+}
+
+.t{
+	position: relative;
+    margin-bottom:px;
+    left:-230px;
+}
+
+.y{
+	position: relative;
+    margin-bottom:-14px;
+    left:-352px;
+}
+
+
+.u{
+	position: relative;
+    margin-bottom:3px;
+    left:-120px;
+}
+
+.i{
+	position: relative;
+    margin-bottom:3px;
+    left:-302px;
 }
