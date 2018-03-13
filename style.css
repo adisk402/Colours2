@@ -7,6 +7,7 @@ body{
 	display: inline-block;
 	background-color: ;
 	width: 100%;
+	height:;
 	color: white;
 	margin:0 auto;
 	position:fixed;
@@ -60,4 +61,16 @@ body{
 	position: relative;
     margin-bottom:3px;
     left:-302px;
+}
+
+.o{
+	position: relative;
+    margin-bottom:3px;
+    left:-370px;
+}
+
+.p{
+	position: relative;
+    margin-bottom:20px;
+    left:100px;
 }
