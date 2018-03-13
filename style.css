@@ -1,3 +1,32 @@
 body{
-	background-color:red;
+	background-image: url(img/1.jpg);
+	background-size: 1250px;
+}
+
+.wrapper{
+	display: inline-block;
+	background-color: ;
+	width: 100%;
+	color: white;
+	margin:0 auto;
+	position:fixed;
+	bottom:27%;
+}
+
+.q{
+	position: relative;
+    margin-bottom: px;
+    left:194px;
+}
+
+.w{
+	position: relative;
+    margin-bottom: -40px;
+    right: 67px;
+}
+
+.e{
+	position: relative;
+    margin-bottom: px;
+    left:-108px;
 }
