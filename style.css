@@ -19,9 +19,6 @@ body{
     margin-bottom: px;
     left:194px;
 }
-a.q:hover{
-	background:url(img/ch5.png);
-}
 
 .w{
 	position: relative;
@@ -66,10 +63,20 @@ a.q:hover{
     left:-302px;
 }
 
+.i:hover{
+	content: url(img/ch8w.png);
+	width:190px;
+}
+
 .o{
 	position: relative;
     margin-bottom:3px;
     left:-370px;
+}
+
+.o:hover{
+	content: url(img/ch9w.png);
+	width:130px;
 }
 
 .p{
